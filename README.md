@@ -29,3 +29,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+[![Build Status](https://dev.azure.com/chanlinesmasher/Chandru/_apis/build/status%2FChandruthelinesmasher.DEVOPSLEARNING-1?branchName=main)](https://dev.azure.com/chanlinesmasher/Chandru/_build/latest?definitionId=4&branchName=main)
